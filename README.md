@@ -6,6 +6,9 @@ Description [...]
 Presentation Arch
 - MVVM
 
+Multithreading
+- Coroutines
+
 Jetpack
 - Navigation, ViewModel, LiveData, Room
 
