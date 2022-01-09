@@ -15,6 +15,8 @@ Jetpack
 Views
 - RecyclerView & CardView
 
+
+
 ___
 
 ![Screenshot_20220104_115140](https://user-images.githubusercontent.com/72701893/148664464-f9261c1f-231b-4158-8c79-cd162c05d2ac.png)
