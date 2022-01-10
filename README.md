@@ -1,4 +1,4 @@
-<b><strong>"Digital Innovation One - Carrefour Bootcamp - To Do List App Challenge"</b></strong>
+<b><strong>"Digital Innovation One - Carrefour Bootcamp - Android To Do List App Challenge"</b></strong>
 
 <b><i>Challenge:</b></i>
 
@@ -6,7 +6,7 @@ Create a "To Do List" style App from scratch and drive the entire development pr
 
 <b><i>Description:</b></i>
 
-Following instructions from the challenge proposed by Digital Innovation One, I built an app seeking to introduce architectural design pattern MVVM and meeting the main objective of the challenge, which was to use the Room library to save, update and delete data in a local database.
+Following instructions from the challenge proposed by Digital Innovation One, I built an Android app seeking to introduce architectural design pattern MVVM and meeting the main objective of the challenge, which was to use the Room library to save, update and delete data in a local database.
 
 
 <b><i>Technologies used:</b></i>
