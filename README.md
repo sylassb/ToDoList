@@ -1,4 +1,4 @@
-<b>"Digital Innovation One - Carrefour Bootcamp To Do List App Challenge"</b>
+<b>"Digital Innovation One - Carrefour Bootcamp - To Do List App Challenge"</b>
 
 Challenge:
 Create a "To Do List" style App from scratch and drive the entire development process using Kotlin, one of the fastest-growing programming languages in recent years. Furthermore, you are challenged to evolve the App and deliver an even more robust solution.
