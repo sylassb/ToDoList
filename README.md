@@ -1,4 +1,4 @@
-<b><strong>"Digital Innovation One - Carrefour Bootcamp - Android To Do List App Challenge"</b></strong>
+<b><strong>"Digital Innovation One - Carrefour and NTT DATA Bootcamps - Android To Do List App Challenge"</b></strong>
 
 <b><i>Challenge:</b></i>
 
